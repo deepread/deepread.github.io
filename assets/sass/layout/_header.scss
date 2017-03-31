@@ -52,8 +52,10 @@
 			height: 5.5rem;
 			line-height: 5.5rem;
 			border: solid _size(border-width) _palette(border);
-			border-radius: 100%;
-
+			// border-radius: 100%;
+			color: _pallete(fg);
+			font-size: 1.5rem;
+			font-weight: bold;
 			.icon {
 				&:before {
 					font-size: 2rem;

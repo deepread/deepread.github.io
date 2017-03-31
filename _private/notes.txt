@@ -1,0 +1,6 @@
+
+
+To compile sass:
+
+sudo gem install sass
+sass --watch assets/sass/:assets/css/
